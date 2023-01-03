@@ -1,5 +1,5 @@
 
-    /*This is a script checks transaction status via MPesa API
+    /*Script that checks Mpesa transaction status via MPesa API
     */
     
     /*
